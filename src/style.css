@@ -1,0 +1,10 @@
+body {
+    background-color: silver;
+}
+
+.main {
+    margin-top: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 2%;
+}
